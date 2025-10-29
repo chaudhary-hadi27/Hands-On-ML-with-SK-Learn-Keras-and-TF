@@ -1,0 +1,56 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ---- Virtual Environment ----
+venv/
+env/
+.venv/
+ENV/
+*.env
+*.venv
+*env/
+
+# ---- IDE / Editor ----
+# PyCharm
+.idea/
+# VS Code
+.vscode/
+# Jupyter
+.ipynb_checkpoints/
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs & Caches ----
+*.log
+*.pot
+*.pyc
+.cache/
+pytest_cache/
+.mypy_cache/
+.pytest_cache/
+__pypackages__/
+
+# ---- Environment / Credentials ----
+.env
+.env.*
+config.json
+settings.json
+secret.key
+*.pem
+*.key
+
+# ---- Project Specific ----
+# Ignore notebooks output if you have large ones
+*.ipynb
+# Ignore temporary Markdown / drafts
+*.md~
+*.tmp
