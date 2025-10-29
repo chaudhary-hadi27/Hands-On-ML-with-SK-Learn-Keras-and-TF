@@ -67,11 +67,8 @@ For example:
 
 ## Examples of Applications
 
-- **Image Classification:**  
-  Models can identify objects or categories in an image — for example, recognizing cats, cars, or handwritten digits.
-
-- **Object Detection:**
-
+- Image Classification:
+- Object Detection:
 - Personal Assistant
 - Recommended System
 - Sentiment analysis
@@ -122,6 +119,7 @@ The algorithm **automatically discovers patterns, similarities, or groupings** w
 - Google Photos automatically groups pictures of the same person together.
 - Banking apps detect unusual spending patterns to identify suspicious activity.
 - Market segmentation — dividing customers into groups based on buying behavior.
+
 
 
 ---
