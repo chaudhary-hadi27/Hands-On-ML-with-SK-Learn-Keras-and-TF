@@ -1,4 +1,5 @@
 # Part 1
+
 ## Chapter 1 - The Machine Learning Landscape.
 
 - What Is Machine Learning?
@@ -21,4 +22,4 @@
 - Data Mismatch
 - Exercises
 
->Further details comming soon
+> Further details comming soon
